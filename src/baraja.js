@@ -49,9 +49,9 @@ function Baraja(container, options = {}) {
     self.fanSettings = {
       easing:      'ease-out',
       direction:   'right',
-      origin:      {x: 25, y: 100},
+      origin:      {x: 50, y: 200},
       speed:       500,
-      range:       90,
+      range:       100,
       translation: 0,
       center:      true,
       scatter:     false
